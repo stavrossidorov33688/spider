@@ -3,3 +3,4 @@ dist/
 .venv/
 build/
 __pycache__/
+tmp/
